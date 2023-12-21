@@ -4,6 +4,8 @@ out/
 !**/src/test/**/out/
 .idea/
 .build/
+Java-Algorithms.iml
+.gitignore
 ### Eclipse ###
 .apt_generated
 .classpath
